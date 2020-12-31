@@ -55,13 +55,20 @@ End sub-project 3: January 2022
 ## References
 
 [1] https://www.hbo-kennisbank.nl/searchresult?q=machine+learning
+
 [2] https://www.eur.nl/erasmusacademie/cursus/opleiding-data-science-predictive-machine-learning
+
 [3] https://www.rug.nl/bachelors/artificial-intelligence/?lang=en
+
 [4] https://se4ml.org/
+
 [5] https://se-ml.github.io/
+
 [6] https://www.forbes.com/sites/forbestechcouncil/2020/12/23/what-leaders-need-to-know-about-mlops/
+
 [7] https://se-ml.github.io/report2020
+
 [8] https://www.computer.org/education/bodies-of-knowledge/software-engineering/v3
 
-
+s
 
