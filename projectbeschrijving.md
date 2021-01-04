@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Over the last decade, machine learning and data science (ML for short) have become an integral part of software engineering and computer science curricula, among others [1][2][3]. As a result, teachers and researchers put a lot of time and effort into creating ML-educational materials, thereby employing different kinds of tools and techniques – most notably Jupyter Notebook, TensorFlow and Keras. Apart from the mathematical foundations of ML, subject of these materials typically seem to include data mining and sanitation, regression and classification analysis, deep learning and neural nets, and hyperparameter tuning.
+Over the last decade, machine learning and data science (ML for short) have become an integral part of software engineering and computer science curricula, among others [1][2][3]. As a result, teachers and researchers put a lot of time and effort into creating ML-educational materials, thereby employing different kinds of tools and techniques – most notably Python and NumPy in Jupyter Notebook, using frameworks such as TensorFlow and Keras. Apart from the mathematical foundations of ML, subject of these materials typically seem to include data mining and cleaning, regression and classification analysis, deep learning and neural nets, and hyperparameter tuning.
 
-It is our intuition, however, that in this educational setting, little or no attention is given to the operational aspects of ML-related projects. Jupyter Notebooks, for example, is a perfect tool for experimenting and testing, but fails to deliver as a production platform. Consequently, students and teachers alike typically transform their Notebooks to plain (Python)-scripts to be run directly from the command line. A procedure that works fine for relatively simple or standard projects, but which does not take into account a variety of questions that emerge once one want to deploy the code to production. Question such as
+It is our intuition, however, that in this educational setting, little or no attention is given to the operational aspects of ML-related projects. Jupyter Notebooks, for example, is a perfect tool for experimenting and testing, but fails to deliver as a production platform. Consequently, students and teachers alike typically transform these Notebooks to plain (Python)-scripts to be run directly from the command line. A procedure that works fine for relatively simple or standard projects, but which does not take into account a variety of questions that emerge once one want to deploy the code to production. Question such as
 
 - how do you maintain and version the data that the code is trained on?
 - how do you maintain and version the code itself?
@@ -19,7 +19,7 @@ It is the goal of the project under consideration to remedy this situation.
 
 ## The project: SE4ML4EDU
 
-The project SE4ML4EDU consists of three parts: a *descriptive*, a *prescriptive*, and a *curative* part. The results of all these sub-projects will be shared via the known channels, using a creative commons license. 
+The project SE4ML4EDU consists of three parts: a *descriptive*, a *prescriptive*, and a *curative* part. 
 
 ### Part 1: inventory of the current state of affairs of ML education in The Netherlands
 
@@ -70,5 +70,4 @@ End sub-project 3: January 2022
 
 [8] https://www.computer.org/education/bodies-of-knowledge/software-engineering/v3
 
-s
 
